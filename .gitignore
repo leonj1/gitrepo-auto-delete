@@ -1,0 +1,36 @@
+# Build artifacts
+bin/
+ghautodelete
+*.exe
+
+# Test artifacts
+coverage.out
+coverage.html
+*.test
+
+# Go workspace
+go.work
+go.work.sum
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+*.tmp
+*.log
+
+# Database files
+*.db
+
+# Claude Code state files
+.claude/.state/
+
