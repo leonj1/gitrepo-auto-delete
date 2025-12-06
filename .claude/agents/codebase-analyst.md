@@ -2,6 +2,7 @@
 name: codebase-analyst
 description: Investigation specialist that compares new specs against the existing codebase to find reuse opportunities.
 tools: Read, Glob, Grep, Bash
+skills: exa-webfetch, context-initializer
 model: opus
 ultrathink: true
 color: purple

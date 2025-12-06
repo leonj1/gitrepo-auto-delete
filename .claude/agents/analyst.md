@@ -2,6 +2,7 @@
 name: analyst
 description: Root Cause Analysis specialist that synthesizes investigation findings into structured diagnosis reports.
 tools: Read, Bash, Task
+skills: exa-webfetch
 model: opus
 ultrathink: true
 color: purple

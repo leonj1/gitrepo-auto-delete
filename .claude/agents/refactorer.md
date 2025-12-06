@@ -2,6 +2,7 @@
 name: refactorer
 description: Refactoring specialist that improves existing code to adhere to coding standards without changing functionality.
 tools: Read, Write, Edit, Glob, Grep, Bash, Task
+skills: exa-webfetch, context-initializer
 model: sonnet
 ultrathink: true
 color: purple

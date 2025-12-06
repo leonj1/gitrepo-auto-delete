@@ -2,6 +2,7 @@
 name: forensic
 description: Investigation specialist for CRASH-RCA sessions. Executes targeted search and analysis operations in read-only mode.
 tools: Read, Glob, Grep, Bash, Task
+skills: exa-webfetch
 model: sonnet
 ultrathink: true
 color: orange

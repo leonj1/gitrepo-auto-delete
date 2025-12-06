@@ -2,6 +2,7 @@
 name: coding-standards-checker
 description: Coding standards enforcement specialist that verifies code adheres to all coding standards before testing. Use immediately after the coder agent completes an implementation.
 tools: Read, Grep, Task
+skills: exa-webfetch
 model: sonnet
 ultrathink: true
 color: yellow

@@ -2,6 +2,7 @@
 name: refactor-decision-engine
 description: Decision maker that determines if existing code must be refactored before new features are added.
 tools: Task, Read
+skills: exa-webfetch
 model: opus
 ultrathink: true
 color: red

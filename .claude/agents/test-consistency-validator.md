@@ -2,6 +2,7 @@
 name: test-consistency-validator
 description: Validates that test names accurately reflect their contents. Fails back to originating agent if inconsistencies found.
 tools: Read, Glob, Grep, Bash, Task
+skills: exa-webfetch
 model: sonnet
 color: orange
 ---
