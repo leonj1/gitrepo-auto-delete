@@ -2,6 +2,7 @@
 name: requirements-qa
 description: Quality Assurance specialist that validates BDD features against the original user prompt to ensure complete requirements coverage.
 tools: Read, Task, Grep
+skills: exa-webfetch
 model: opus
 ultrathink: true
 color: yellow

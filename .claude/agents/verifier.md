@@ -2,6 +2,7 @@
 name: verifier
 description: Investigation specialist that explores source code to verify claims, answer questions, or determine if user queries are true/false. Use for code exploration and verification tasks.
 tools: Read, Glob, Grep, Bash, Task
+skills: exa-webfetch, context-initializer
 model: opus
 ultrathink: true
 color: purple

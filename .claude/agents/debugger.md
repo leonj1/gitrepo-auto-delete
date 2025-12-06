@@ -2,6 +2,7 @@
 name: debugger
 description: CRASH-RCA Orchestrator for forensic debugging sessions. Coordinates investigation phases and enforces read-only mode until root cause is identified.
 tools: Read, Glob, Grep, Bash, Task
+skills: exa-webfetch, context-initializer
 model: opus
 ultrathink: true
 color: red

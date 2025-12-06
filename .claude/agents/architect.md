@@ -2,6 +2,7 @@
 name: architect
 description: Pure solutions architect that creates ideal technical specifications and manages task decomposition.
 tools: Write, Read, Task
+skills: exa-webfetch, context-initializer
 model: opus
 ultrathink: true
 color: blue

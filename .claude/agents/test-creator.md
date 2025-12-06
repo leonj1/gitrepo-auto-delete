@@ -2,7 +2,7 @@
 name: test-creator
 description: Test-Driven Development specialist that writes tests BEFORE implementation. Use when following TDD approach.
 tools: Read, Write, Edit, Glob, Grep, Bash, Task
-skills: strict-architecture
+skills: strict-architecture, exa-webfetch, context-initializer
 model: opus
 ultrathink: true
 color: cyan
